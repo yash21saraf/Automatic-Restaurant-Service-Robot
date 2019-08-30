@@ -7,4 +7,3 @@
 Demo Video - 
 
 [![Model Performance](https://img.youtube.com/vi/y2YrHHljU3k/0.jpg)](https://youtu.be/y2YrHHljU3k)
-# Automatic-Restaurant-Service-Robot
